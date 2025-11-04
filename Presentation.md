@@ -44,6 +44,9 @@ commit commit commit
 
 Chaque version (*commit*) correspond à un état précis du projet 📸
 
+# Workflow Git Staging
+
+![Workflow de staging Git](./img/git-staging-workflow.jpg)
 ---
 
 # Travailler à plusieurs
@@ -62,6 +65,16 @@ main ----A----B----C----D'----E'
 
 
 Les commits *D* et *E* ont été fusionnés dans `main`.
+
+---
+
+# Branches Git et Fusion (Merge)
+
+![Branches et fusion Git](./img/git-branches-merge.jpg)
+
+---
+
+
 
 ---
 
