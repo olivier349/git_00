@@ -1,9 +1,9 @@
----
+<!-- ---
 marp: true
 theme: default
 paginate: true
 title: Présentation Git – Bases et Bonnes Pratiques
----
+--- -->
 
 # Présentation Git  
 ### Bases et Bonnes Pratiques
